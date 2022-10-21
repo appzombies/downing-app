@@ -5,7 +5,7 @@
     "admob_pub_id": "pub-9449995187191149",
     "admob_app_id": "ca-app-pub-9449995187191149~2246177745",
     "admob_banner" : "/21753324030,22792603201/com.downing.dishlocator.setupantenna.satellitedishpoint.dishfinder_Banner",
-    "admob_interstitial" :"/21753324030,22792603201/com.downing.dishlocator.setupantenna.satellitedishpoint.dishfinder_Interstitial",
+    "admob_interstitial" :"",
     "admob_native" : "/21753324030,22792603201/com.downing.dishlocator.setupantenna.satellitedishpoint.dishfinder_Native",
     "admob_open" : "/21753324030,22792603201/com.downing.dishlocator.setupantenna.satellitedishpoint.dishfinder_AppOpen",
     "ad_type" : "1",
